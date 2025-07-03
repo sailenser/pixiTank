@@ -4,7 +4,7 @@ export async function preloadImages() {
   const assets = [
     {
       alias: "GunConnectorD",
-      src: "./src/assets/parts/gun_connectors/GunConnectorD.png",
+      src: "./public/assets/parts/gun_connectors/GunConnectorD.png",
     },
     {
       alias: "HeavyGunB",
