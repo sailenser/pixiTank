@@ -1,5 +1,5 @@
 import { Container, AnimatedSprite, Sprite } from "pixi.js";
-import { createAnimatedSprite, createSprite } from "@/functions";
+import { createAnimatedSprite, createSprite } from "@/functions.ts";
 
 export class Tank {
   private readonly _view: Container;

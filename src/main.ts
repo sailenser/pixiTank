@@ -1,6 +1,6 @@
 import { Application, Graphics } from "pixi.js";
 import type { FederatedPointerEvent } from "pixi.js";
-import { preloadImages } from "@/AssetLoader";
+import { preloadImages } from "@/AssetLoader.ts";
 // import { addBackground } from "@/addBackground.ts";
 import { Tank } from "@/Tank.ts";
 import { Tween, Easing } from "@tweenjs/tween.js";
